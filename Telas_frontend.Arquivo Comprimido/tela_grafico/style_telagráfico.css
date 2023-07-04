@@ -1,0 +1,43 @@
+/* style.css */
+
+.header {
+    background-color: #8B008B;
+    padding: 10px;
+    color: #fff;
+    font-size: 10px;
+}
+
+.chart {
+    margin-top: 30px;
+}
+
+.chart h2 {
+    color: #333;
+}
+
+.data {
+    margin-top: 30px;
+}
+
+.data h3 {
+    color: #333;
+    font-weight: bold;
+}
+
+.amount p {
+    margin: 10px 0;
+}
+
+.arrow {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-left: 5px;
+    border-left: 2px solid red;
+    border-bottom: 2px solid red;
+    transform: rotate(135deg);
+}
+
+.fa-arrow-up {
+    color: red;
+}
